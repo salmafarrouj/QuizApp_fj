@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizApp_fj" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Dark Mode Colors -->
+        <item name="colorPrimary">@color/quiz_primary</item>
+        <item name="colorPrimaryVariant">@color/quiz_primary_dark</item>
+        <item name="android:windowBackground">@color/quiz_background_dark</item>
+        <item name="colorSurface">@color/quiz_surface_dark</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>
